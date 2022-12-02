@@ -13,7 +13,7 @@
 
 <h3> 📝 Dataset utilizado: </h3>
 
- - Encontram-se na pasta dados todos os datasets utilizados no projeto.
+ - Encontram-se na pasta dados todos os datasets utilizados no exercício.
  
 <h3> :teacher: Enunciado: </h3>
 
